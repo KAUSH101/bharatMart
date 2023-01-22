@@ -11830,61 +11830,71 @@
          "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/KZ/LV/SE/8344890/l4337-2-500x500.jpg",
          "title": "Coral Buttoned Kurta",
          "brand": "Pannkh",
-         "price": "799"
+         "price": "799",
+         "id":"1"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/UG/IN/QJ/20345987/1-cd0405b5-0dfc-4fe9-96b3-8e5f786edc0b-500x500.webp",
          "title": "Green And Blue Co-ord Set R888",
          "brand": "Wama Trendz",
-         "price": "1999"
+         "price": "1999",
+         "id":"2"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/ZW/FE/ER/13788211/221k-209crm-500x500.jpg",
          "title": "Klamotten Women's Bikini & Babydoll Dress Combo 221k-209crm",
          "brand": "Aceann Lifestyle Private Limited",
-         "price": "599"
+         "price": "599",
+         "id":"3"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/LN/SS/CX/3069160/wrks083-1-500x500.jpg",
          "title": "Purple Hand Embellished Indowestren Kurta With Pants-wrks083",
          "brand": "R & R Apparels",
-         "price": "2799"
+         "price": "2799",
+         "id":"4"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/OH/KS/LH/26270956/0v3a2146-fadd6166-f4f7-49d1-8e5e-a366ff6abf98-500x500.jpg",
          "title": "Cotton Kurta Set For Women",
          "brand": "Hari Om Gas Agency",
-         "price": "1499"
+         "price": "1499",
+         "id":"5"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/UE/AV/NU/145202238/dd691f9dce144d52878244f63a0fab9d-317291640-834510950938669-7914963566175960892-n-500x500.jpg",
          "title": "Letter Print Sweater & Pants Co-ord Set With Scarf",
          "brand": "Amyra Entreprises",
-         "price": "2690"
+         "price": "2690",
+         "id":"6"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/RF/TF/UL/90086993/5440526-500x500.png",
          "title": "Women's Black Embroidered Tunics",
          "brand": "NOZ2TOZ",
-         "price": "972"
+         "price": "972",
+         "id":"7"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/XQ/MW/QA/144394509/1668144669265-whatsapp-image-2022-11-08-at-3-13-20-pm-1-originnm80prcnt-500x500.webp",
          "title": "Beautiful Sambalpuri Cotton Printed Saree With Blouse Piece For Women",
          "brand": "B Raja International",
-         "price": "1899"
+         "price": "1899",
+         "id":"8"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2022/10/IN/XC/WV/93835194/readymadepranjulchudidhar-816-xxl-500x500.jpg",
          "title": "Readymade Pranjul Chudidhar with Patiyala -816",
          "brand": "Saas Fashion Bazaar",
-         "price": "799"
+         "price": "799",
+         "id":"9"
         },
         {
          "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/PO/JH/YF/35667744/ss-1544-500x500.jpg",
          "title": "Baby Pink Georgette Kurta With Churidar",
          "brand": "Siabhi Studios",
-         "price": "7999"
+         "price": "7999",
+         "id":"10"
         }
        ],
        
@@ -11893,61 +11903,71 @@
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/CF/NP/FX/156564966/5c2a1431-2-500x500.jpg",
         "title": "Be Desi Men Cotton Star Butta Cuff Detail Kurta",
         "brand": "Navsari Trends LLP",
-        "price": "550"
+        "price": "550",
+        "id":"11"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/JM/JV/AO/78825625/exd675-15yellow-500x500.jpg",
         "title": "Exd675 Men's Traditional Pure Cotton Panchakacham Stitched Dhoti Pant 2\"inch Gold Border With Towel/angavastram (ready To Wear)",
         "brand": "Exclusive Dhoties",
-        "price": "1140"
+        "price": "1140",
+        "id":"12"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/WX/WD/QE/90086993/mwpklgrctgp201030-1-500x500.jpg",
         "title": "Men Kurta Set",
         "brand": "NOZ2TOZ",
-        "price": "1099"
+        "price": "1099",
+        "id":"13"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/SF/WP/PL/10883763/1-4f4c20ec-6bc5-4f9c-bda1-fb2ef96bce0e-500x500.jpg",
         "title": "Men Multicolor Printed Baggy Shorts",
         "brand": "AKR Industries Private Limited",
-        "price": "549"
+        "price": "549",
+        "id":"14"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/OQ/BW/TH/115773359/6739988087-500x500.jpg",
         "title": "Rigo International Stylish Men's Shrug",
         "brand": "M/s New Fly Group & Co.",
-        "price": "850"
+        "price": "850",
+        "id":"15"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/10/TO/UC/AN/150436491/630471c6657d0-500x500.jpg",
         "title": "Buy Men Fashion Black T-shirt",
         "brand": "Youwe Fashion",
-        "price": "339"
+        "price": "339",
+        "id":"16"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/FN/WB/LT/115422180/31-500x500.png",
         "title": "Thinkless Printed T-Shirts",
         "brand": "Next Print",
-        "price": "399"
+        "price": "399",
+        "id":"17"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/WB/PI/KQ/8344890/2-1-be33f83c-9167-455b-b2e4-7d5b644c19b4-500x500.png",
         "title": "Ombre Embroidered Strappy Tiered Kurta",
         "brand": "Pannkh",
-        "price": "1199"
+        "price": "1199",
+        "id":"18"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/DX/ZY/OT/105112946/2s5a1603-500x500.jpg",
         "title": "Omtex Muscle Tanks For Men | Kibi Sports",
         "brand": "Kibi Sports Private Limited",
-        "price": "965"
+        "price": "965",
+        "id":"19"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/8/IY/NI/BJ/151269308/4-92d3d522-73af-43b5-9068-63c3052a5eef-500x500.jpg",
         "title": "Cotton Polo All Seasons | Tangerine",
         "brand": "Kronos Sports",
-        "price": "630"
+        "price": "630",
+        "id":"20"
        }
       ],
       "footwear": [
@@ -11955,25 +11975,29 @@
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/KV/QK/NG/13078142/1666256931117-45-55-418bj6yljal-aa500-originnm80prcnt-500x500.jpg",
         "title": "Medifoot Diabetic Orthopedic Black Footwear/chappal/flip Flop For Men",
         "brand": "Store Apt",
-        "price": "1199"
+        "price": "1199",
+        "id":"21"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/FV/LA/UY/8446317/dsc-0442-500x500.jpg",
         "title": "Women's Handstand T-shirt (Aqua)",
         "brand": "WOD ARMOUR",
-        "price": "899"
+        "price": "899",
+        "id":"22"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/OF/UA/PQ/180452040/whatsappimage2022-11-26at7-10-16pm-2-500x500.jpg",
         "title": "Khadau for Men & Women, Floral Wooden Footwear, Wooden Chappal for Men and Women (Size 10)",
         "brand": "Madhurmani Networks (OPC) Private Limited",
-        "price": "269"
+        "price": "269",
+        "id":"23"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/10/FL/HC/CK/33805497/image-d1db431c-d572-44fb-8c7a-f707c92f5615-500x500.jpg",
         "title": "Ecotex Toe Puff Counter Stiffners In Sheets For Footwear",
         "brand": "Prak Overseas",
-        "price": "130"
+        "price": "130",
+        "id":"24"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/7/QF/BK/OA/105112946/1-f4ea5603-2be7-4869-b41d-c4213da58ff3-500x500.webp",
@@ -11985,31 +12009,36 @@
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/PI/TG/QH/106925028/leosportz-500x500.png",
         "title": "Ankle Strap For Gym Cable Machine (1 Pair)- Leosportz",
         "brand": "Priyanshi Creations",
-        "price": "749"
+        "price": "749",
+        "id":"25"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/UK/XH/JI/148827935/81kpxo-1qal-ac-ul320-500x500.jpg",
         "title": "No Limit V-RO White High Top Cheer Shoe Adult Size 6",
         "brand": "Sagar Enterprises",
-        "price": "22098"
+        "price": "22098",
+        "id":"26"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/GA/LP/QP/26954735/babyshoesblue-500x500.png",
         "title": "Baby Shoes, Soft And Stylish Shoes For 0-6 Months Baby Girl & Boy",
         "brand": "A To Z Overseas",
-        "price": "89"
+        "price": "89",
+        "id":"27"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/HM/HU/PU/161152847/1image-a5e2d63d-33fc-450d-82aa-cfc573ffbc86-500x500.jpg",
         "title": "6224 Anti-wear Foam Cotton Heel Sticker Tape Patch Blister Plaster Waterproof First Aid Blister Pedicure Pad Foot Care Insole",
         "brand": "S S Marketing",
-        "price": "52"
+        "price": "52",
+        "id":"28"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/HQ/WH/XC/144394509/1616495006967-sneaker-43-zf-klub-black-original-imaftgbthkwku7q7-originnm80prcnt-500x500.jpg",
         "title": "Fashion Sports Shoes For Boys",
         "brand": "B Raja International",
-        "price": "999"
+        "price": "999",
+        "id":"29"
        }
       ],
       "industrial": [
@@ -12017,69 +12046,80 @@
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/XU/OU/BW/6083034/125288163903689-500x500.jpg",
         "title": "Bentonite Powder Tech",
         "brand": "Akshar Exim Company Private Limited",
-        "price": "216"
+        "price": "216",
+        "id":"30"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/XZ/ZO/SY/119473589/kerry-prodiem-500x500.jpg",
         "title": "Kerry - Prodiem",
         "brand": "Source Good Food Tech Private Limited",
-        "price": "1800"
+        "price": "1800",
+        "id":"31"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/9/CM/TP/YL/31031253/moroccanoil-treatment-light-100ml-48311fee-a6a2-4729-8c80-fc0e83e4a8f9-500x500.png",
         "title": "Moroccanoil Treatment Light (100 ml)",
         "brand": "Beautiful",
-        "price": "3870"
+        "price": "3870",
+        "id":"32"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/YT/XJ/ZF/132871955/emgf9l9gxpn42-xxlarge-500x500.jpg",
         "title": "Maarc 15g Calcium Hydroxide Powder, 5002/015 (pack Of 2)",
         "brand": "DentalExpress",
-        "price": "200"
+        "price": "200",
+        "id":"33"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/GE/MR/AN/149343036/berpatthar-500x500.jpg",
         "title": "Ber Patthar - Ber Pathar - Hajrul Yahood - - Fossil Encrinite Raw Herbs-jadi Booti",
         "brand": "Nishtha Exports",
-        "price": "890"
+        "price": "890",
+        "id":"34"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/5/KR/XX/CN/93162484/5lts-can-500x500.jpg",
         "title": "Dr. Fixit 301 Pidicrete URP Liquid 1lts",
         "brand": "Badari Hardwares",
-        "price": "1630"
+        "price": "1630",
+        "id":"35"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/8/FT/PS/DL/153630576/tamasmultanimittipowder100gm-500x500.jpg",
         "title": "Superfine Multani Mitti (Bentonite Clay) Powder 100 Gm",
         "brand": "Green Leaf Drugstore",
-        "price": "199"
+        "price": "199",
+        "id":"36"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/OV/RD/ZQ/95869149/ace-aluminum-soldering-flux-100-gm-500x500.jpg",
         "title": "Ace 100gm Aluminum Soldering Flux",
         "brand": "The Hobby Shop",
-        "price": "249"
+        "price": "249",
+        "id":"37"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/12/RA/MH/GF/147030179/bentoniteclaypowder227gm-1-500x500.jpg",
         "title": "Bentonite Clay Powder | Calcium Bentonite | 227gm / 8oz",
         "brand": "MERLION NATURALS",
-        "price": "249"
+        "price": "249",
+        "id":"38"
        },
        {
         "image": "https://5.imimg.com/data5/ECOM/Default/2022/6/UO/ZS/NB/86024746/dp009-a-1024x1024-2x-7b6a1b73-1f93-4b8d-b16c-535ef84550a1-500x500.jpg",
         "title": "Dr Oracle 21; Stay A-Thera Cream 50ml",
         "brand": "Homesense Kolkata",
-        "price": "1950"
+        "price": "1950",
+        "id":"39"
        }
       ],
       "cart":[
         {
-              "image": "https://5.imimg.com/data5/ECOM/Default/2022/6/UO/ZS/NB/86024746/dp009-a-1024x1024-2x-7b6a1b73-1f93-4b8d-b16c-535ef84550a1-500x500.jpg",
+   "image": "https://5.imimg.com/data5/ECOM/Default/2022/6/UO/ZS/NB/86024746/dp009-a-1024x1024-2x-7b6a1b73-1f93-4b8d-b16c-535ef84550a1-500x500.jpg",
         "title": "Dr Oracle 21; Stay A-Thera Cream 50ml",
         "brand": "Homesense Kolkata",
-        "price": "1950"
+        "price": "1950",
+        "id":"39"
         }
       ]
 }
